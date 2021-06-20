@@ -3,9 +3,18 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        agriculture: 3
+        transformer: 2
+        efficient net: 2
+        resnet: 2
+        reinforcement: 2
+        LSTM: 1
+        gaussian process: 2
+        sota: 2
+        anomaly detection: 2
+        software engineering: 1
+        kaggle: 1
+        smart meter: 2
 
 # 通知の閾値
 score_threshold: 0
